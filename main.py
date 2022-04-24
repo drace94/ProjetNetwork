@@ -10,8 +10,8 @@ c = 1.0
 A = np.array([[0,c],[c,0]])
 coeff_energy = 0
 coeff_time = 1
-tau_pr = 1e-4 #eps^2
-dt = 1e-4 #eps
+tau_pr = 1e-3 #eps^2
+dt = 1e-2 #eps
 T = 1
 
 print("tau_pr = %f"%tau_pr)
