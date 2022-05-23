@@ -4,6 +4,7 @@
 
 *Authors:*
 - Gabriel Depaillat & Hugo Valayer, INSA Toulouse, France
+
 *Project advisors:*
 - Guillaume Dufour, ONERA Toulouse, France
 - David Sanchez, Institut de Mathématiques de Toulouse, France
