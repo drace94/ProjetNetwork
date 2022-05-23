@@ -1,6 +1,9 @@
 # Mathematical Modeling of Clusters Dynamics
-4th year project in Applied Mathematics at INSA Toulouse, France.
-*Authors:* Gabriel Depaillat & Hugo Valayer
+
+4th year project in Applied Mathematics at INSA Toulouse, France
+
+*Authors:*
+- Gabriel Depaillat & Hugo Valayer, INSA Toulouse, France
 *Project advisors:*
 - Guillaume Dufour, ONERA Toulouse, France
 - David Sanchez, Institut de Mathématiques de Toulouse, France
